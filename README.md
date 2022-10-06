@@ -1,7 +1,7 @@
 # yasczzn
 
 - 👋 Hello, I’m @yasczzn
-- 👀 I’m interested in mobile dev
+- 👀 Interested in mobile dev and front-end dev
 - 🌱 Currently learning kotlin and dart
 - 💞️ Feel free to collaborate
 - 🌻 Portfolio soon
