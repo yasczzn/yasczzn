@@ -2,7 +2,7 @@
 
 - 👋 Hello, I’m @yasczzn
 - 👀 Interested in mobile dev and front-end dev
-- 🌱 Currently learning kotlin and dart
+- 🌱 Currently learning kotlin, php, phyton, and dart
 - 💞️ Feel free to collaborate
 - 🌻 Portfolio soon
 
