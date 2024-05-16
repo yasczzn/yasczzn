@@ -1,8 +1,9 @@
 # yasczzn
 
 - 👋 Hello, I’m @yasczzn
+- 🖱️ Profinient in PHP, Java, Kotlin
 - 👀 Interested in mobile dev and front-end dev
-- 🌱 Currently learning kotlin, php, phyton, and dart
+- 🌱 Currently learning phyton, and dart
 - 💞️ Feel free to collaborate
 - 🌻 Portfolio soon
 
